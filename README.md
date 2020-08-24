@@ -6,7 +6,7 @@ Examples that illustrate how to use 3D Slicer via Jupyter notebooks in Python
 
 All the notebooks can be run interactively in the web browser via Binder by clicking "Launch binder".
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/slicer/SlicerNotebooks/master)
+[![Binder](https://mybinder.org/badge.svg)](https://hub-binder.mybinder.ovh/user/allihuwa-conten-tment-worklflow-jsaz20tn/tree)
 
 ## Running locally using docker
 
